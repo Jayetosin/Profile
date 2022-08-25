@@ -1,0 +1,58 @@
+body{
+    background-color: blanchedalmond;
+    text-align:center;
+    text-decoration: none;
+    color: brown;
+}
+.topnav a{
+    float: right;
+    display: block;
+    color: white;
+    padding: 17px;
+    text-decoration: none;
+    text-align:right;
+}
+.topnav.responsive a icon {
+text-align: left;
+right: 0;
+top: 0;    
+position:absolute
+}
+.topnav.responsive{
+    position:relative;
+    max-width: 600px;
+}
+.topnav{
+    background-color: black;
+    overflow:hidden;
+}
+#picture{
+border-color: goldenrod;
+border-style: solid;
+border-top-left-radius: 10px;
+isolation: isolate;
+}
+.container1{
+    text-align: center;
+    color: black;
+    background-color:indianred;
+}
+.container2{
+    text-align: center;
+    background-color: rgb(13, 95, 143);
+    color: black;
+    margin: 32px;
+    font-size:larger
+}
+#consistant{
+    font-style: italic;
+    color: aquamarine;
+}
+.container3{
+    background-color: whitesmoke;
+    text-align: center;
+    color:rgb(88, 5, 5);
+    margin: 70px;
+    font-size: larger;
+    text-decoration: none;
+}
